@@ -3,10 +3,10 @@
 <p>calculadora sencilla de medias y una clase usada para crear vehículos como objetos</p> 
 
 ## Distribución:
-<p> net/calculadora/**Calculadora.class**</p>
-<p> net/vehiculos/camion/**Camion.class**</p>
-<p> net/vehiculos/ciclomotor/**Ciclomotor.class** </p>
-<p< net/**Main.class** </p>
+net/calculadora/**Calculadora.class**
+net/vehiculos/camion/**Camion.class**
+net/vehiculos/ciclomotor/ **Ciclomotor.class**
+net/__Main.class__ 
 
 [Alejandro Vallejo García] (https://github.com/AleVallejoGarcia/UD3-3PruebaValidacion.git)
 
